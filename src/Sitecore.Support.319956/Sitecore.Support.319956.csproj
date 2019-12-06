@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\zzz\Sitecore.Support.319956.config" />
+    <Content Include="Sitecore.Support.319956.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
